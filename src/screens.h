@@ -26,6 +26,16 @@
 #ifndef SCREENS_H
 #define SCREENS_H
 
+// Colors
+#define PG_RED      (Color){ 249,  57,  60, 255 }
+#define PG_ORANGE   (Color){ 249, 163,  57, 255 }
+#define PG_YELLOW   (Color){ 249, 197,  78, 255 }
+#define PG_GREEN    (Color){ 126, 179,  86, 255 }
+#define PG_CYAN     (Color){  67, 170, 139, 255 }
+#define PG_BLUE     (Color){  40, 127, 164, 255 }
+#define PG_WHITE    (Color){ 240, 249, 247, 255 }
+#define PG_BLACK    (Color){   7,  10,  13, 255 }
+
 //----------------------------------------------------------------------------------
 // Types and Structures Definition
 //----------------------------------------------------------------------------------
